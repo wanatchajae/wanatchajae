@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gus Wanatcha</h1>
-<h3 align="center">i'm very much passionate to be rich.</h3>
+<h3 align="center">i'm very much passionate to improve my skills.</h3>
 
 - 🌱 I’m currently learning **a lots of things.**
 

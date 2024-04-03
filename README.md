@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gus Wanatcha</h1>
-<h3 align="center">i'm very much passionate to improve my skills.</h3>
+<h3 align="center">I an slightly stepping into this world.</h3>
+<h5 align="center">I've watch too many films, And now I'm paying it by becoming a pipeline.</h5>
 
 - 🌱 I’m currently learning **a lots of things.**
 

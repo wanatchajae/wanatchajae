@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gus Wanatcha</h1>
-<h3 align="center">I'm here to improve my programming skills, and passionate to be a Dev.</h3>
+<h3 align="center">i'm very much passionate to be rich.</h3>
 
 - 🌱 I’m currently learning **a lots of things.**
 
-- ⚡ Fun fact **idk what im doing it's like i was 19 two-second ago and now i'm twenties.**
+- ⚡ Fun fact **idk what im doing rn it's like i was 19 two-second ago and now i'm in my twenties.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

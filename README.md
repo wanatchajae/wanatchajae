@@ -10,5 +10,8 @@
 
 ![Image](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white) ![Image](https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white) ![Image](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white) ![Image](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
-
-- 
+<details open>
+<summary>🎥 My Letterboxd</summary>
+<br>
+[ https://letterboxd.com/guswanatt/ ]
+</details>

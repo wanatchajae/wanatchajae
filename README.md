@@ -1,6 +1,6 @@
 <h1 align="center">Hi there,👋 I'm Gus 😎</h1>
 <h3 align="center">I an slightly stepping into this world.</h3>
-<h5 align="center">I've watch too many films, And now I'm paying it by becoming a pipeline.</h5>
+<h5 align="center">I've watched too many films, and now I'm paying for it by becoming a developer.</h5>
 
 <br> 💻 **I'm Currently Learning Lots of Things, Here my Goals I want to Improve:**
 

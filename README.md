@@ -2,7 +2,7 @@
 <h3 align="center">I an slightly stepping into this world.</h3>
 <h5 align="center">I've watched too many films, and now I'm paying for it by becoming a developer.</h5>
 
-<br> 💻 **I'm Currently Learning Lots of Things, Here my Goals I want to Improve:**
+<br> 💻 **I'm currently learning lots of things. Here are my goals to improve.**
 
 ![Image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![Image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Image](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00) ![Image](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
 

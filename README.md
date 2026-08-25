@@ -1,6 +1,6 @@
 <h1 align="center">Hi there,👋 I'm Gus 😎</h1>
 <h3 align="center">Currently stepping into this world.</h3>
-<h5 align="center">I've watched so many films, play so many games, read not much of books and now wishing for myself to becoming something...</h5>
+<h5 align="center">I've watched so many films, play so many games, read not much of books and right now cheering for myself to becoming something.</h5>
 
 <br> 💻 **I'm currently learning lots of things. Here are my goals to improve.**
 
